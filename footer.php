@@ -1,3 +1,5 @@
+
+<link rel="stylesheet" href="styles.css" />
 <footer class="footer" id="Contact">
     <div class="social">
         <a href="https://www.linkedin.com/in/sopie-adelia/"><i class='bx bxl-linkedin-square'></i></a>

@@ -1,6 +1,7 @@
 <?php include 'body.php';
 ?>
 
+<link rel="stylesheet" href="styles.css" />
 <section class="section" id="Home">
         <div class="section_container">
             <div class="content">
