@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="image">
-            <img src="assets/women-hijabi2.jpeg" alt="profile">
+            <img src="assets/women hijabi2.jpeg" alt="profile">
             </div>
         </div>
 </section>
