@@ -1,6 +1,7 @@
 
 <link rel="stylesheet" href="styles.css" />
 <footer class="footer" id="Contact">
+<link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/css/boxicons.min.css" rel="stylesheet">
     <div class="social">
         <a href="https://www.linkedin.com/in/sopie-adelia/"><i class='bx bxl-linkedin-square'></i></a>
         <a href="https://www.instagram.com/adliyaa_sff/?hl=id"><i class='bx bxl-instagram-alt'></i></a>

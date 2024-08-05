@@ -1,7 +1,7 @@
-<?php include 'body.php';
-?>
 
+<?php 'LEVELING UP PKL/body.php'; ?>
 <link rel="stylesheet" href="styles.css" />
+
 <section class="section" id="Home">
         <div class="section_container">
             <div class="content">
@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="image">
-                <img src="assets/women hijabi2.jpeg" alt="profile">
+            <img src="assets/women-hijabi2.jpeg" alt="profile">
             </div>
         </div>
 </section>
@@ -79,5 +79,4 @@
         </div>
     </section>
 
-    <?php include 'footer.php';
-?>
+<?php 'LEVELING UP PKL/footer.php'; ?>
