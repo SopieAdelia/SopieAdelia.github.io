@@ -1,4 +1,4 @@
-<?php include"body.php";
+<?php include 'body.php';
 ?>
 
 <section class="section" id="Home">
@@ -78,5 +78,5 @@
         </div>
     </section>
 
-    <?php require"footer.php";
+    <?php include 'footer.php';
 ?>
