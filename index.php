@@ -79,4 +79,18 @@
         </div>
     </section>
 
+    <section class="contact-form" id="contactme">
+        <h2 class="contact-me">Contact <span>me</span></h2>
+
+        <form action="koneksi.php" method="post">
+            <div class="input-box">
+                <input type="text" name="fullname" placeholder="fullname" required>
+                <input type="email" name="email" placeholder="email" required>
+            </div>
+            <textarea name="message" id="message" cols="30" rows="10" placeholder="Your Message" required></textarea>
+            <input type="submit" value="Send Message" class="btn-1">
+        </form>
+</section>
+
 <?php 'LEVELING UP PKL/footer.php'; ?>
+
