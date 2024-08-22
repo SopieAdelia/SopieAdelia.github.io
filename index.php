@@ -1,5 +1,5 @@
 
-<?php 'LEVELING UP PKL/body.php'; ?>
+<?php include 'header.php'; ?>
 <link rel="stylesheet" href="styles.css" />
 
 <section class="section" id="Home">
@@ -92,5 +92,5 @@
         </form>
 </section>
 
-<?php 'LEVELING UP PKL/footer.php'; ?>
+<?php include 'footer.php'; ?>
 
